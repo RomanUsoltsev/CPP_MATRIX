@@ -1,2 +1,3 @@
-Matrix class. Implementation of basic functions for working with matrices in C++. 
-There is test coverage using the library , as well as generating a report on test coverage.
+Matrix class. Implementation of basic functions for working with matrices in C++.
+There is test coverage using the library, as well as generating a report on test coverage.
+The project is built using a Makefile.
